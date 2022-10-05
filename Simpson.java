@@ -3,6 +3,7 @@ import java.util.*;
 /*------------------------------------------------------------------------------------------------------
  *  GitHub: KerryNguyen
  *  I have no idea what I'm doing
+ *  Made to approximate a definite integral
  *------------------------------------------------------------------------------------------------------*/
 class Function{                                                        
 
